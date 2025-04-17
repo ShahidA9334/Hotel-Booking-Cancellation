@@ -41,5 +41,5 @@ The Excel dashboard includes:
 
 ## Screenshots
 
-![Dashboard Screenshot](link-to-screenshot.png)
+![Dashboard Screenshot](Screenshot 2025-04-17 053343.png)
 
