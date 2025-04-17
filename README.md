@@ -41,7 +41,8 @@ The Excel dashboard includes:
 
 ## Screenshots
 
-![Dashboard Screenshot]("C:\Users\Administrator\Documents\Projects\Hotel Booking Cancellation\Screenshot 2025-04-17 053343.png")
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 
 ## Author
 
